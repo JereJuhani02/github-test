@@ -1,0 +1,22 @@
+@media only screen and (max-width: 375px) {
+  .center {
+    background-color: red;
+  }
+}
+
+.center {
+  padding: 70px;
+  border: 1px solid red;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
